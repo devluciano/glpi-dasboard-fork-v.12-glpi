@@ -7,7 +7,7 @@ Este repositório é um **fork** do plugin **Dashboard** para GLPI, atualizado e
 
 ---
 
-## 📌 Sobre o Fork
+## Sobre o Fork
 
 O plugin original de Dashboard foi amplamente utilizado nas versões anteriores do GLPI (0.9x, 9.x, 10.x). Com a evolução da arquitetura do GLPI na versão 12, foram necessárias adaptações na estrutura de hooks, verificação de compatibilidade, menus e carregamento de interfaces.
 
@@ -18,7 +18,7 @@ O plugin original de Dashboard foi amplamente utilizado nas versões anteriores 
 
 ---
 
-## 🚀 Instalação
+## Instalação
 
 ### 1. Clonar ou copiar os arquivos
 Baixe ou clone este repositório para o diretório de plugins do seu servidor GLPI. A pasta do plugin deve se chamar obrigatoriamente `dashboard`:
