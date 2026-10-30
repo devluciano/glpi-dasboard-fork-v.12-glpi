@@ -57,7 +57,16 @@ chmod -R 755 /caminho/do/glpi/plugins/dashboard
 
 ---
 
+## 👨‍💻 Autoria e Manutenção do Fork
+
+Modificações e compatibilização para **GLPI 12** desenvolvidas por:
+- **Luciano Silva** - *Dev FullStack*
+- GitHub: [@devluciano](https://github.com/devluciano)
+
+---
+
 ## 📄 Licença e Créditos
 
+- Modificações para GLPI 12: **Luciano Silva - Dev FullStack**
 - Baseado no trabalho original do plugin **GLPI Dashboard** desenvolvido pela comunidade GLPI / Stevenes Donato.
 - Distribuído sob a licença **GPL v2+** (consulte o arquivo [COPYING.txt](COPYING.txt) para mais detalhes).

@@ -33,7 +33,7 @@ function plugin_version_dashboard()
     return array(
         'name'            => __('ST-Dashboard', 'dashboard'),
         'version'             => '2.0.1',
-        'author'            => 'Luciano Silva',
+        'author'            => 'Luciano Silva - Dev FullStack',
         'license'             => 'GPLv2+',
         'homepage'            => 'https://github.com/serviceticst/glpi-plugin-dashboard/releases',
         'minGlpiVersion'    => '11.0'

@@ -1,3 +1,9 @@
+Versão 2.0.1 (Fork GLPI 12):
+- Autor das alterações: Luciano Silva - Dev FullStack
+- Compatibilidade com a versão 12 do GLPI
+- Ajustes no registro de hooks e menus
+- Correções de compatibilidade PHP/GLPI
+
 Versão 0.9.9:
 
 - GLPI 9.4.x
